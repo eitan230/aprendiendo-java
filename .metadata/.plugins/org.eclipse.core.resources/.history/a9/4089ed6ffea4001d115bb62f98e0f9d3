@@ -1,0 +1,16 @@
+
+public class EjemploCondicionales2 {
+
+	public static void main(String[] args) {
+
+		System.out.println("Hola Rey como estas");
+
+		int edad = 2;
+		int cantidadPersonas = 2;
+		if (edad >= 18 || cantidadPersonas >= 2) {
+			System.out.println("Sos mayor de 18 y puede pasar");
+		} else {
+			System.out.println("Usted no puede ingresar");
+		}
+	}
+}

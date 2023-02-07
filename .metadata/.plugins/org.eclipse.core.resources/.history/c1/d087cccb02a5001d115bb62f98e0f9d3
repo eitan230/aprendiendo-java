@@ -1,0 +1,13 @@
+
+public class EjemploCiclos {
+	public static void main(String[] args) {
+		
+		int contador = 1;
+		
+		while(asd) {
+			System.out.println("El numero es: " + contador);
+			contador++;
+		}
+		
+	}
+}

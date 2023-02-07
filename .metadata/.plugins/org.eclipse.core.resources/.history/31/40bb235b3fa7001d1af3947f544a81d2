@@ -1,0 +1,5 @@
+package proyectoByteBank;
+
+class Cuenta{
+	int cuenta = 0;
+}

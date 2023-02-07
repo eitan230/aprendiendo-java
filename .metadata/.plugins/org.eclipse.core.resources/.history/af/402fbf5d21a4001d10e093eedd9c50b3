@@ -1,0 +1,12 @@
+
+public class TipoVariable {
+	
+	public static void main(String[] args) {
+		System.out.println("Hola");
+		
+		double caca = 1250.5589;
+		
+		int caca2 = (int )caca;
+	}
+	
+}

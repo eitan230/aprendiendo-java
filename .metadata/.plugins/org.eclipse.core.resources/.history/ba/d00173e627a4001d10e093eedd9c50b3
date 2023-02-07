@@ -1,0 +1,9 @@
+
+public class EjemploCaracteres {
+	
+	public static void main(String[] args) {
+		 
+		char caracter = 65;
+		System.out.println(caracter);
+	}
+}
