@@ -1,0 +1,7 @@
+package proyectoByteBank;
+
+public class TestReferencia3 {
+	
+	Cuenta cuentaEitan = new Cuenta();
+	cuentaEitan.titular.nombre = "Eitan";
+}

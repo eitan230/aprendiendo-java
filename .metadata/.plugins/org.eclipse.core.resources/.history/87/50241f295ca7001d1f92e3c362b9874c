@@ -1,0 +1,10 @@
+package proyectoByteBank;
+
+public class PruebaMetodos {
+	
+	public static void main(String[] args) {
+		
+		Cuenta cuentaEitan = new Cuenta();
+		cuentaEitan.depositar(500);
+	}
+}

@@ -1,0 +1,18 @@
+package proyectoByteBank;
+
+public class PruebaMetodos {
+	
+	public static void main(String[] args) {
+		
+		Cuenta cuentaEitan = new Cuenta();
+		cuentaEitan.saldo = 300;
+		cuentaEitan.depositar(300);
+		System.out.println(cuentaEitan.saldo);
+		
+		cuentaEitan.retirar(100); 
+		
+		Cuenta cuentaMax = new Cuenta();
+		
+		cuentaEitan.transferir(200, cuentaMax)
+	}
+}

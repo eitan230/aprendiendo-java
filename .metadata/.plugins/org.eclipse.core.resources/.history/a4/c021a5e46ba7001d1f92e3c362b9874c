@@ -1,0 +1,13 @@
+package proyectoByteBank;
+
+public class TestReferencia3 {
+
+	public static void main(String[] args) {
+		Cuenta cuentaEitan = new Cuenta();
+		
+		System.out.println(cuentaEitan);
+		System.out.println(cuentaEitan.titular);
+
+	}
+
+}

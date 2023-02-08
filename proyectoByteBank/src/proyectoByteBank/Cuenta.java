@@ -5,6 +5,33 @@ class Cuenta{
 	double saldo;
 	int agencia;
 	int numero;
-	String titular;
+	Cliente titular = new Cliente();
+
+	//No retorna valor, se usa void
+	public void depositar(double saldo){
+		this.saldo += saldo;
+	}
 	
+	//Retorna valor
+	public boolean retirar(double valor) {
+		if(this.saldo >= valor) {
+			this.saldo -= valor;
+			return true;
+		} else {
+			return false;
+		}
+		
+	}
+	
+	public boolean transferir(double valor, Cuenta cuenta){
+		
+		if(this.saldo >= valor) {
+		this.retirar(valor);
+		cuenta.depositar(valor);
+		
+		return true;
+		} else {
+			return false;
+		}
+	}
 }
