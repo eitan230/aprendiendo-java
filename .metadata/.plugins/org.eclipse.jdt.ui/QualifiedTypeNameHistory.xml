@@ -4,4 +4,17 @@
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="proyectoByteBank.Cuenta"/>
     <fullyQualifiedTypeName name="proyectoByteBank.Cliente"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.ControlBonificacion"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.Funcionario"/>
+    <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.CuentaCorriente"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.CuentaAhorro"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.Contador"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.FuncionarioAutenticable"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.SistemaInterno"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.Autenticable"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.AutenticacionUtil"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.Administrador"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.Gerente"/>
 </qualifiedTypeNameHistroy>
