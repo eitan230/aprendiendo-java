@@ -10,6 +10,6 @@ public class TestAutenticar {
 		
 		gerente.setContraseña(12345);
 		
-		sistema.autentica(gerente, 1235);
+		sistema.autentica(gerente, 12345);
 	}
 }
