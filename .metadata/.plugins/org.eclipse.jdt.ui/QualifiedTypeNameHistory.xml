@@ -8,7 +8,6 @@
     <fullyQualifiedTypeName name="bytebankHeredado.Funcionario"/>
     <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
     <fullyQualifiedTypeName name="bytebankHeredado.CuentaCorriente"/>
-    <fullyQualifiedTypeName name="bytebankHeredado.CuentaAhorro"/>
     <fullyQualifiedTypeName name="bytebankHeredado.Contador"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="bytebankHeredado.FuncionarioAutenticable"/>
@@ -17,4 +16,21 @@
     <fullyQualifiedTypeName name="bytebankHeredado.AutenticacionUtil"/>
     <fullyQualifiedTypeName name="bytebankHeredado.Administrador"/>
     <fullyQualifiedTypeName name="bytebankHeredado.Gerente"/>
+    <fullyQualifiedTypeName name="MiException"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="Cuenta"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.SaldoInsuficienteException"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.Cuenta"/>
+    <fullyQualifiedTypeName name="bytebankHeredado.CuentaAhorro"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="Conexion"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.bytebank.test.TestMain"/>
+    <fullyQualifiedTypeName name="com.bytebank.modelo.CuentaCorriente"/>
+    <fullyQualifiedTypeName name="com.bytebank.modelo.Cuenta"/>
+    <fullyQualifiedTypeName name="com.bytebank.modelo.CuentaAhorro"/>
+    <fullyQualifiedTypeName name="com.bytebank.modelo.Cliente"/>
 </qualifiedTypeNameHistroy>
